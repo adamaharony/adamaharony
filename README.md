@@ -1,6 +1,11 @@
 ### Hi there 👋
 I'm Adam!
-I mostly code my projects with:
+I'm a student studying:
+- Applied mathematics, B.Sc.
+- Computer Science, B.Sc.
+
+
+⚡ **I mostly code my projects with:**
 - Python.
 - Javascript.
 - Java.
