@@ -20,6 +20,11 @@ I usually persue projects involving:
 📫 **How to reach me**
 - Discord: Cringy Adam#4611
 - Email: cringyadam [at] outlook.com  (_State why you are contacting me_)
+  - Feel free to contact me in any of these languages:
+    - English
+    - French
+    - German
+    - Hebrew
 <!--
 **adamaharony/adamaharony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
