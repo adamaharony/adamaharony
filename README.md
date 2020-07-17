@@ -4,7 +4,7 @@ I mostly code my projects with:
 - Python.
 - Javascript.
 - Java.
-- C/C#/C++.
+- C / C# / C++.
 - Dart / Flutter.
 - Golang.
 - Scala.
