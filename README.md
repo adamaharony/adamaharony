@@ -9,6 +9,7 @@ I'm a student studying:
 - Python.
 - Javascript.
 - Java.
+- Julia.
 - C / C# / C++.
 - Dart / Flutter.
 - Golang.
