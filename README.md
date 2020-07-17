@@ -1,5 +1,25 @@
 ### Hi there 👋
+I'm Adam!
+I mostly code my projects with:
+- Python.
+- Javascript.
+- Java.
+- C/C#/C++.
+- Dart / Flutter.
+- Golang.
+- Scala.
 
+🔭 **Projects**
+I usually persue projects involving:
+- Data science.
+- ML, AI, Deep learning.
+- Mathematical models.
+- Web projects / Bots.
+
+
+📫 **How to reach me**
+- Discord: Cringy Adam#4611
+- Email: cringyadam [at] outlook.com  (_State why you are contacting me_)
 <!--
 **adamaharony/adamaharony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
